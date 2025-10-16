@@ -1,0 +1,39 @@
+PARA KEVIN SANTIAGO MONROY ORTIZ
+ 
+1. Función Recetas Favoritas
+ 
+Permite al usuario marcar y guardar recetas que le gustan.
+ 
+Guardar recetas como favoritas con un solo toque.
+ 
+Ver todas las recetas favoritas en una sección separada.
+ 
+Guardar esta información en el dispositivo (sin internet).
+ 
+2. Organización Intuitiva de Recetas
+ 
+Las recetas deben ser fáciles de leer y entender.
+ 
+Mostrar ingredientes primero, luego pasos.
+ 
+Agrupar recetas por tipo (desayuno, almuerzo, postre, etc.).
+ 
+3. Explorar sin Cuenta
+ 
+No se necesita registrarse para usar la app.
+ 
+Acceso total al contenido sin iniciar sesión.
+ 
+No pedir datos personales al abrir la app.
+ 
+Guardar datos localmente sin cuentas en línea.
+ 
+4. Función Crear Receta
+ 
+El usuario puede agregar sus propias recetas.
+ 
+Formulario simple con campos para nombre, ingredientes y pasos.
+ 
+Opción para agregar una foto desde el dispositivo.
+ 
+Guardar la receta localmente y verla como cualquier otra
