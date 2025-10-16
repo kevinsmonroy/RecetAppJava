@@ -12,6 +12,7 @@ public class Receta implements Serializable {
     private int cocción;
     private String fotoPath;
     private Boolean esFavorita;
+
     public Receta(String id, String nombre, TipoReceta tipo, List<String> ingredientes, List<String> pasos, int coccion, String fotoPath, Boolean esFavorita) {
         this.id = id;
         this.nombre = nombre;
@@ -22,7 +23,6 @@ public class Receta implements Serializable {
         this.fotoPath = fotoPath;
         this.esFavorita = esFavorita;
     }
-
 
     // Encapsulamiento
     public String ObtenerId(){
@@ -45,7 +45,7 @@ public class Receta implements Serializable {
     }
 
     public List<String> obtenerIngredientes(){
-       return ingredientes;
+        return ingredientes;
     }
     public void ModificarIngredientes(List<String> ingredientes){
         this.ingredientes=ingredientes;
